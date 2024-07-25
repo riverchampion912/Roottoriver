@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PRUEBA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>RIVER PLATE</h1>
+    <nav>
+        <ul>
+            <li><a href="">Menu</a></li>
+            <li><a href="">Menu</a></li>
+            <li><a href="">Menu</a></li>
+            <li><a href="">Liga</a></li>
+        </ul>
+    </nav>
+    <div class="contenido">
+        <div class="articulos">
+            <div class="secciones">
+                <div>
+                    <h2>Subtitulo</h2>
+                    <p>TODO SOBRE EL CLUB MAS GRANDE GRANDE DE AMERICA.</p>
+                </div>
+                <div><img src="img/review-camiseta-titular-adidas-de-river-plate-2022-2023-header.jpg" alt=""></div>
+
+            </div>
+        
+        </div>
+
+    </div>
+</body>
+</html>
